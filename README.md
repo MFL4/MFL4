@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mhd. Farhan Lubis</h1>
-<h3 align="center">A passionate programming learne</h3>
+<h3 align="center">A passionate programming learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfl4&label=PVS&color=db6f17&style=flat" alt="mfl4" /> </p>
 
