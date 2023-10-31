@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="1.2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
@@ -67,18 +67,18 @@
 ###
 
 <div align="center">
-  <img height="1.2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
-
-###
-
-<h2 align="left">My Social Media</h2>
 
 ###
 
 <br clear="both">
 
 <img align="right" height="60" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"  />
+
+###
+
+<h2 align="left">My Social Media</h2>
 
 ###
 
@@ -94,19 +94,7 @@
 ###
 
 <div align="center">
-  <img height="1.2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mfl4/mfl4/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mfl4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mfl4&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
