@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">My Tech Stacks and Tools</h2>
+<h2 align="left">💻⚙️ My Tech Stacks and Tools</h2>
 
 ###
 
