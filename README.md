@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mfl4.mfl4&left_color=black&right_color=green&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mfl4.mfl4&left_color=black&right_color=darkslateblue&left_text=Visitors"  />
 </div>
 
 ###
@@ -21,9 +21,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfl4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="165" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mfl4&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=10&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfl4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="165" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mfl4&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10&order=3" height="165" alt="streak graph"  />
 </div>
 
 ###
@@ -90,6 +90,46 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="60" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"  />
+
+###
+
+<h2 align="left">🏆 My GitHub Trophies</h2>
+
+###
+
+![](https://github-profile-trophy.vercel.app/?username=mfl4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+###
+
+<div align="center">
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="60" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"  />
+
+###
+
+<h2 align="left">✍️ Quote Of The Day</h2>
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ###
 
