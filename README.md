@@ -117,3 +117,23 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img align="right" height="60" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif"  />
+
+###
+
+<h2 align="left">🎶 Music Of The Day</h2>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3r8tb1bp2yn5xsqwxc0h9mkkb)
+
+###
+
+<div align="center">
+  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+
+###
