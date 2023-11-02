@@ -128,7 +128,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3r8tb1bp2yn5xsqwxc0h9mkkb)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3r8tb1bp2yn5xsqwxc0h9mkkb&unique={true|1|on|yes})
 
 ###
 
