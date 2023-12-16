@@ -20,9 +20,9 @@
 
 ##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfl4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=My%20Most%20Used%20Languages" height="165" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfl4&theme=tokyonight-duo&border_radius=3&card_width=500" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mfl4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="165" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfl4&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ###
