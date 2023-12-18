@@ -18,11 +18,14 @@
 
 <h2 align="left">📊 My Stats</h2>
 
-##
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfl4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="165" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfl4&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfl4&layout=donut&theme=tokyonight)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfl4&show_icons=true&theme=tokyonight)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mfl4&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 </div>
 
 ###
@@ -52,15 +55,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -108,7 +114,10 @@
 
 ###
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+</div>
 
 ###
 
@@ -128,7 +137,10 @@
 
 ###
 
+<div align="center">
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3r8tb1bp2yn5xsqwxc0h9mkkb&unique={true|1|on|yes})
+</div>
 
 ###
 
